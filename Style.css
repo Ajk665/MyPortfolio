@@ -1,0 +1,30 @@
+    
+.header{
+
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+
+}
+.game{
+
+    background-color: green;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.text1{
+
+    background: cadetblue;
+    text-align: center;
+
+}
+.media{
+
+    background: aliceblue;
+    display: flex;
+    justify-content: flex-end;
+
+}
+    h1 {color:red}
